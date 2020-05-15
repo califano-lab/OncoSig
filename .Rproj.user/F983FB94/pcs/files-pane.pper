@@ -1,0 +1,9 @@
+{
+    "path" : "~/Documents/Github/OncoSig_main/OncoSig/Input_data_files/LUAD/OncoSigUnsup",
+    "sortOrder" : [
+        {
+            "ascending" : true,
+            "columnIndex" : 2
+        }
+    ]
+}

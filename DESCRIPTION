@@ -1,10 +1,9 @@
 Package: OncoSig
 Type: Package
-Title: Predict Oncogene Centric gene maps
-Version: 0.1
+Title: What the package does (short line)
+Version: 1.0
 Date: 2018-10-14
-Author: c(person("Joshua", "Broyde", , "joshuabroyde@gmail.com", role = c("aut")))
-Maintainer: Joshua Broyde <joshuabroyde@gmail.com>
-Description: Generate predictions of Oncogene Centric maps for given sets of oncogenes
-License: GPL (>= 2)
-RoxygenNote: 7.1.0
+Author: Who wrote it
+Maintainer: Who to complain to <yourfault@somewhere.net>
+Description: More about what it does (maybe more than one line)
+License: What license is it under?

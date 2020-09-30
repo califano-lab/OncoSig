@@ -7,10 +7,7 @@ Convert Adjancency list to adjancency matrix
 Convert Adjancency list (as a dataframe) to adjancency matrix. The first column will become the columns
 the second column the rows, and the third column the weights of the edges. 
 }
-\warning{
-Inputes missing values as 0, so make sure your scores range from  greater than zero to infinity!
 
-}
 \usage{
 
 listToMatrix(df)

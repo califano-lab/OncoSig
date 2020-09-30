@@ -85,6 +85,7 @@ remove(Network_matrix)
 
 Query_output_results=OncoSigRF(Network_matrix_df,Gold_Standard_in_Network_names,max_iterations = 5)
 Query_output_results_scores=Query_output_results[[1]]
+}
 \keyword{ Random Forest }% use one of  RShowDoc("KEYWORDS")
 \keyword{ OncoSig }% __ONLY ONE__ keyword per line
 \keyword{ Monte Carlo }% __ONLY ONE__ keyword per line
